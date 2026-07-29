@@ -1,5 +1,8 @@
 # dbo5.DimCustomer_OB_AFD
 
+<img width="959" height="479" alt="image" src="https://github.com/user-attachments/assets/47b00cab-250c-4ac7-b4e7-d04cdffa4e12" />
+
+
 # DBO5 Sheet Pipeline — sap_to_dwh_AFD
 
 This pipeline copies **SAP Customer Master** data from **Azure Data Lake Storage (ADLS)** into the SQL Server staging table and then performs an **incremental load** into the destination table using stored procedures.
