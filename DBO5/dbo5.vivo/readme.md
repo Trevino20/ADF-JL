@@ -1,5 +1,8 @@
 # DBO5 Sheet Pipeline — VIVO Pipeline
 
+<img width="959" height="476" alt="image" src="https://github.com/user-attachments/assets/26c603f1-ba70-4f17-a9c1-241c543acd2b" />
+
+
 This pipeline copies **VIVO operational data** from the FTP source into the SQL Server staging table and then performs an **incremental merge** into the destination table using stored procedures.
 
 ---
